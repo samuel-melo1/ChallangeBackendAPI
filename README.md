@@ -19,7 +19,7 @@ A API foi desenvolvida com base em um desafio de backend utilizando C#. Em resum
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/samuel-melo1/BackendAmeDigital.git
+git clone https://github.com/samuel-melo1/ChallangeBackendAPI.git
 ```
 
 2. Instale as dependências utilizando o próprio visual studio: 
