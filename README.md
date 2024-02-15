@@ -75,7 +75,7 @@ O projeto utiliza o [PostgreSQL](https://dev.mysql.com/doc/mysql-getting-started
 
 **Criação de Banco**
  ```sql
- CREATE DATABASE Clientes;
+ CREATE DATABASE cliente;
  ```
 
 
