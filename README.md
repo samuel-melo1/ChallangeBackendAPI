@@ -1,9 +1,5 @@
 # Challenge Backend API
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
-
 Esse é um projeto construído com  **C#, ASP.NET, Entity Framework, PostgreSQL como banco de dados e SWAGGER para documentação e teste de rotas. .** 
 
 
