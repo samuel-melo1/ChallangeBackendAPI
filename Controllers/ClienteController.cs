@@ -35,7 +35,7 @@ namespace BackendChallengeApi.Controllers
             return Ok(await _clientService.SaveCliente(cliente));  
         }
 
-        [HttpPost("/buscarClientes")]
+        [HttpGet("/buscarClientes")]
         public async Task<IActionResult> ListClientes()
         {
             return Ok(await _clientService.GetAllClientes()); 
