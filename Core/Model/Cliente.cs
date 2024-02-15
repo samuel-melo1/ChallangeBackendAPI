@@ -21,7 +21,7 @@ namespace BackendChallengeApi.Core.Model
             get { return _name; }
             set { _name = value; }
 
-        }
+        } 
         public string Cnpj
         {
             get { return _cnpj; }

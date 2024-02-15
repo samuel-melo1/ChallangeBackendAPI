@@ -35,7 +35,7 @@ namespace BackendChallengeApi.Core.Services
             } catch (Exception ex){
                 throw new Exception(ex.StackTrace); 
             }
-        }
+        } 
 
         public async Task<List<Cliente>> GetAllClientes()
         {

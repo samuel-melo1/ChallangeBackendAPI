@@ -19,7 +19,7 @@ namespace BackendChallengeApi.Controllers
         public ClienteController(ClientService clientService)
         {
             this._clientService = clientService;
-        }
+        } 
 
         [HttpPost("/salvar")]
         public async Task<IActionResult> SaveCliente([FromBody] ClienteDTO clienteDTO)
